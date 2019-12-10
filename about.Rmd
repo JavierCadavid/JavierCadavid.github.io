@@ -1,5 +1,10 @@
 ---
-title: "About This Website"
+title: "Who am I"
 ---
 
-More about this website
+<div class = "row">
+
+<div class = "col-md-4">
+I am Javier Cadavid production engineer of [ITM]
+
+interest and formation.

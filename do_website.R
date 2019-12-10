@@ -19,4 +19,7 @@ blogdown::serve_site()# para cargar la pagina despues de hacer cambios.#tener en
 rmarkdown::render_site(encoding = "UTF-8")# para volver a cargar la pagina despues de hacer cambios.
 ?blogdown::install_theme
 
-#git add -A# se usa en terminal para cargar todos los archivos 
+#git add .
+#git add -A# se usa en terminal para cargar todos los archivos nuevos
+#git commit -m "primera prueba con la pagina"
+#git push origin master# para subir la informacion nueva a la nube

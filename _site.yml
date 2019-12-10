@@ -1,14 +1,30 @@
-name: "my-website"
+name: "Javier Cadavid"
 output_dir: "."
 navbar:
-  title: "My Website"
-  left:
+  title: "Javier Cadavid"
+  right:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Experience"
+      href: experience.html
+    - text: "Courses"
+      href: courses.html
+      
+  left:   
+    - text: "Contact me"
+      icon: fa-home
+      href: contact.html
       
 output:
   html_document:
-    theme: united
-    highlight: tango
+    theme: spacelab
+    highlight: kate
+    include:
+      after_body: footer.html
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no
+    
