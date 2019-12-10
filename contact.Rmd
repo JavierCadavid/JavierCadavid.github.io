@@ -1,5 +1,8 @@
 ---
-title: "contact me"
+title: "Contact me"
 ---
 
-email: javiercadavidm@gmail.com
+ 
+Email: javiercadavidm@gmail.com
+
+Skype: javiercm30

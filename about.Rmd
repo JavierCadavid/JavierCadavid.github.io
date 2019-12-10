@@ -1,10 +1,16 @@
 ---
-title: "Who am I"
+title: ""
 ---
 
-<div class = "row">
+ <center>
+ <h2>Who am I</h1>
+ </center>
+ 
+I am Javier Cadavid production engineer of Instituto Tecnológico Metropolitano (https://www.itm.edu.co) Medellín.
 
-<div class = "col-md-4">
-I am Javier Cadavid production engineer of [ITM]
+Interest:
+I want to learn more about date, statistic computational. 
 
-interest and formation.
+Education
+- Production engineer, 2019
+- Production technologie, 2014

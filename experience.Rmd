@@ -1,3 +1,18 @@
 ---
-title: "My experience"
+title: ""
 ---
+
+ <center>
+ <h2>My experience</h1>
+ </center>
+ 
+- Consultoría, 2018
+Responsabilities:
+Improve flow process
+
+
+- Skills
+
+- R, 50%
+
+- stastics, 50%

@@ -1,5 +1,9 @@
 ---
-title: "My courses here"
+title: ""
 ---
 
-Hi!
+ <center>
+ <h2>My courses here</h1>
+ </center>
+ 
+- Introduction statistic computational Rstudio

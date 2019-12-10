@@ -7,20 +7,23 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "About"
+      icon: fa-male
       href: about.html
     - text: "Experience"
+      icon: fa-r-project
       href: experience.html
     - text: "Courses"
+      icon: fa-pencil
       href: courses.html
       
   left:   
     - text: "Contact me"
-      icon: fa-home
+      icon: fa-phone
       href: contact.html
       
 output:
   html_document:
-    theme: spacelab
+    theme: cerulean
     highlight: kate
     include:
       after_body: footer.html
