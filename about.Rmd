@@ -1,16 +1,16 @@
----
-title: ""
----
+<H1 align="center">Who am I</H1>
 
- <center>
- <h2>Who am I</h1>
- </center>
  
-I am Javier Cadavid production engineer of Instituto Tecnológico Metropolitano (https://www.itm.edu.co) Medellín.
+ 
+<center>I´m Javier Cadavid and I´ve studied production engineering of [Instituto Tecnológico Metropolitano](https://www.itm.edu.co) Medellín. I currently have basic skills in rstudio and statistics  with a strong interest about data analysis, statistical computing and simulation.</center>
 
-Interest:
-I want to learn more about date, statistic computational. 
+<br>
 
-Education
-- Production engineer, 2019
-- Production technologie, 2014
+<center>![](imagenes/Rstudio.jpg){width=20%}</center>  
+
+<br>
+
+<center>![](imagenes/statistics.png){width=20%}</center>
+
+<br>
+

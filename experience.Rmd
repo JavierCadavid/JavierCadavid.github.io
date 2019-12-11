@@ -1,18 +1,24 @@
----
-title: ""
----
+<H1 align="center">My experience</H1>
 
- <center>
- <h2>My experience</h1>
- </center>
  
-- Consultoría, 2018
-Responsabilities:
-Improve flow process
+ 
+## Consulting
+- Improving workflow of process
+  - Junio - Diciembre 2018
+  
+<br>
+
+## Prodution assistent
+- Quality of the production process.
+  - Marzo 2017
+
+<br>
 
 
-- Skills
 
-- R, 50%
 
-- stastics, 50%
+
+
+
+
+

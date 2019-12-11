@@ -1,10 +1,6 @@
----
-title: ""
----
+<H1 align="center">Hello, You can enjoy my new website</H1>
 
- <center>
- <h2>Hello, You can enjoy my new website</h1>
- </center>
+
 
 ```{r fig.asp=0.25, fig.align='center', echo=FALSE, eval=TRUE}
 library(jpeg)
@@ -13,4 +9,4 @@ img <- readJPEG("imagenes/javi.jpg")
 grid.raster(img)
 ```
 
-
+<br>

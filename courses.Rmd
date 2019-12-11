@@ -1,9 +1,7 @@
----
-title: ""
----
+<H1 align="center">Courses I´ve done</H1>
 
- <center>
- <h2>My courses here</h1>
- </center>
- 
-- Introduction statistic computational Rstudio
+
+
+- [Introducción a data science: Programación estadística con R](https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r)
+
+- [Excel intermedio](http://arrobamedellin.edu.co/excel-intermedio-virtual)
