@@ -2,7 +2,7 @@
 
  
  
-<center>I´m Javier Cadavid and I´ve studied production engineering of [Instituto Tecnológico Metropolitano(2019)](https://www.itm.edu.co) Medellín. I currently have basic skills in rstudio and statistics  with a strong interest about data analysis, statistical computing and simulation.</center>
+<center>I am Javier Cadavid and I have studied production engineering of [Instituto Tecnológico Metropolitano(2019)](https://www.itm.edu.co) Medellín. Currently, I have basic skills in RStudio and statistics  with a strong interest about data analysis, statistical computing and simulation.</center>
 
 <br>
 
